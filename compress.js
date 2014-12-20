@@ -1,3 +1,5 @@
+/*주석추가*/
+
 function compress(str) {
   var repeat = 1;
   var result = str.charAt(0);
